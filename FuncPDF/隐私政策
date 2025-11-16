@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FuncPDF 隐私政策</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 20px;
+            color: #000;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #fff;
+        }
+        h1, h2, h3 {
+            color: #000;
+        }
+        h1 {
+            text-align: center;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #000;
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        a {
+            color: #007bff; /* 保持超链接蓝色 */
+            text-decoration: underline;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        /* 表格用于清晰展示数据收集 */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #000;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>FuncPDF 隐私政策</h1>
+
+<p><strong>生效日期：</strong> 2025 年 11 月 20 日</p>
+
+<h2>引言</h2>
+<p>您的信任对我们非常重要，我们深知个人信息对您的重要性。我们将按法律法规要求，采取相应安全保护措施，尽力保护您的个人信息安全可控。鉴于此， FuncPDF 服务提供者（或简称“我们”或“本服务”）制定本《隐私权政策》（下称“本政策”）并提醒您：</p>
+<p>本政策适用于 <strong>FuncPDF</strong> 提供的所有产品和服务。</p>
+<p>在使用 FuncPDF 各项产品或服务前，请您务必仔细阅读并透彻理解本政策，特别是以粗体标识的条款，您应重点阅读，在确认充分理解并同意后再开始使用。如对本政策内容有任何疑问、意见或建议，您可通过文末提供的联系方式与我们联系。</p>
+
+<h2>第一部分 定义</h2>
+<ul>
+    <li><strong>FuncPDF：</strong> 指 FuncPDF 移动应用程序。</li>
+    <li><strong>个人信息：</strong> 指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。</li>
+    <li><strong>个人敏感信息：</strong> 指包括身份证件号码、个人生物识别信息、银行账号、财产信息、行踪轨迹、交易信息等（FuncPDF 不主动收集此类个人敏感信息）。</li>
+</ul>
+
+<h2>第二部分 隐私政策正文</h2>
+
+<h3>一、我们如何收集和使用您的信息</h3>
+
+<p>FuncPDF 不提供用户注册或登录功能，因此我们不收集您的手机号、邮箱地址等直接身份信息。我们仅出于以下目的，收集和使用您的信息：</p>
+
+<table>
+    <thead>
+    <tr>
+        <th>收集数据类别</th>
+        <th>收集目的与用途</th>
+        <th>存储位置</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><strong>购买历史（IAP 交易数据）</strong></td>
+        <td><strong>目的：</strong> 验证和管理用户的订阅/购买权限，确认服务有效期，并提供已购买的服务。</td>
+        <td><strong style="font-weight: bold;">仅存储在设备本地（App 沙盒）</strong>，不上传至我们的服务器。</td>
+    </tr>
+    <tr>
+        <td><strong>文件数据（用户生成内容）</strong></td>
+        <td><strong>目的：</strong> 实现 FuncPDF 的核心功能，包括文件编辑、转换和存储。</td>
+        <td><strong style="font-weight: bold;">仅存储在设备本地（App 沙盒或您个人的 iCloud）。我们不访问或上传您的文件。</strong></td>
+    </tr>
+    <tr>
+        <td>设备和使用信息</td>
+        <td><strong>目的：</strong> 内部数据分析，优化产品性能，故障诊断。<strong>信息包括：</strong> 设备型号、操作系统版本、应用版本、会话启动/停止时间。</td>
+        <td>设备本地。我们暂未集成第三方统计 SDK。</td>
+    </tr>
+    </tbody>
+</table>
+
+<p><strong>关于 Cookie 和同类技术：</strong></p>
+<p>FuncPDF App 自身不使用 Cookie 和同类技术。本政策中关于 Cookie 的描述仅适用于我们可能运营的任何关联网站，与 App 本身无关。</p>
+
+<h3>二、我们如何共享、转让、披露您的个人信息</h3>
+
+<p>我们承诺不会向其他任何公司、组织和个人分享、转让或公开披露您的个人信息，但以下情况除外：</p>
+<ol>
+    <li>在获取明确同意的情况下共享、转让或披露。</li>
+    <li>根据法律法规规定、法律程序、诉讼或政府主管部门的强制性要求。</li>
+    <li>与授权合作伙伴共享（暂无）： 我们的服务中暂未集成任何需要收集您个人信息的第三方 SDK。如未来新增合作伙伴，我们会及时更新本政策并重新征求您的授权同意。</li>
+</ol>
+
+<h3>三、我们如何存储信息</h3>
+<ol>
+    <li>信息存储的地点： 我们在中华人民共和国境内运营中收集和产生的个人信息，存储在中国境内。</li>
+    <li>信息存储期限： 我们只会在达成本政策所述目的所需的期限内保留您的个人信息（如购买状态），除非法律有强制的存留要求。</li>
+    <li>信息删除： 在您的个人信息超出保留期限后，我们会根据适用法律的要求删除您的个人信息。由于 FuncPDF 不存储账号信息，您删除 App 即代表删除存储在 App 沙盒中的所有信息。</li>
+</ol>
+
+<h3>四、我们如何保护您的个人信息安全</h3>
+<p>我们已使用符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权访问、公开披露、使用、修改、损坏或丢失。例如，我们使用 SSL 加密确保数据在传输过程中的保密性。我们会采取一切合理可行的措施，确保未收集无关的个人信息。</p>
+<p>互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性。在不幸发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知事件的基本情况和可能的影响等。</p>
+
+<h3>五、您如何管理您的信息和订阅</h3>
+
+<p>由于 FuncPDF 不收集可直接识别身份的个人账号信息，您对个人信息的控制主要通过以下方式实现：</p>
+<ol>
+    <li>删除数据： 您可以通过卸载 App 或清理 App 缓存的方式，清除存储在设备本地的所有购买状态和使用数据。</li>
+    <li>访问和删除文件： 您可以随时在 App 内部访问、编辑和删除您存储的文件。</li>
+    <li>管理订阅： 对于通过 Apple App Store 购买的 IAP 订阅服务，您可以随时通过以下 Apple 官方链接管理您的订阅：
+        <p><strong>App Store 订阅管理链接：</strong> <a href="https://apps.apple.com/account/subscriptions">https://apps.apple.com/account/subscriptions</a></p>
+    </li>
+    <li>提出请求： 如您需要行使其他权利并提出请求，可通过下方联系邮箱与我们联系。</li>
+</ol>
+
+<h3>六、未成年人使用条款</h3>
+
+<p>若用户是未满 18 周岁的未成年人，应在监护人监护、指导并获得监护人同意的情况下阅读本协议和使用 FuncPDF 软件及相关服务。</p>
+<p>我们重视对未成年人个人信息的保护，未成年用户在填写个人信息时，请加强个人保护意识并谨慎对待，请在监护人指导时正确使用本服务。</p>
+
+<h3>七、本隐私权政策如何更新</h3>
+
+<p>我们可能适时会对本隐私权政策进行调整或变更。我们将以标注更新时间的方式公布在我们的官方网站或 App 内部。经调整或变更的内容一经通知或公布后的 7 日后生效。如您在隐私权政策调整或变更后继续使用我们提供的任一服务，即表示您已充分阅读、理解并接受修改后的隐私权政策。</p>
+
+<h3>八、争议解决及其他</h3>
+
+<p>本协议的签署地点为中华人民共和国。若您与本服务发生争议的，双方应尽量友好协商解决，协商不成，您同意应将争议提交至本服务提供者所在地有管辖权的人民法院提请诉讼。</p>
+<p>您和本服务提供者均是独立的主体，本协议不构成任何形式的明示或暗示担保或条件。</p>
+
+<div class="contact">
+    <h3>联系我们</h3>
+    <p>如果您对本隐私政策有任何疑问、意见或建议，请通过以下方式与我们联系：</p>
+    <p><strong>电子邮箱：</strong> <a href="mailto:func_app@163.com">func_app@163.com</a></p>
+    <p><strong>服务提供者：</strong> zhanhao liu</p>
+</div>
+
+</body>
+</html>
