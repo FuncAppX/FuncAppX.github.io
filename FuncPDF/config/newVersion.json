@@ -1,6 +1,5 @@
 {
   "version": "1.0",
-  "forceUpdate": false,
   "description": {
     "zh": "修复了若干问题",
     "en": "hello"
