@@ -18,11 +18,16 @@
         .list-item {
             margin-bottom: 10px;
         }
+        /* 修改 footer 样式以实现左对齐 */
         .footer {
             margin-top: 50px;
             padding-top: 20px;
             border-top: 1px solid #eee;
-            text-align: center;
+            max-width: 600px; /* 与描述保持一致的最大宽度 */
+            /* 移除 text-align: center;，默认就是左对齐 */
+        }
+        .footer p {
+            margin: 5px 0; /* 确保段落间距小 */
         }
         .footer a {
             color: #007aff; /* iOS blue link color */
